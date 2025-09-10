@@ -4,7 +4,6 @@ const App = () => {
   return (
     <main>
       <Carousel />
-      <h2>Slider Starter</h2>
     </main>
   )
 }
